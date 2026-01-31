@@ -1,0 +1,5 @@
+on_game_start = {
+	events = {
+		hive_food_fix.1
+	}
+}
